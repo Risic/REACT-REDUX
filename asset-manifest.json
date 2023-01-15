@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/REACT-REDUX/static/css/main.073c9b0a.css",
-    "main.js": "/REACT-REDUX/static/js/main.ad747ad2.js",
+    "main.css": "/REACT-REDUX/static/css/main.87cb6df9.css",
+    "main.js": "/REACT-REDUX/static/js/main.7fbbb63b.js",
+    "static/media/Ray.jpg": "/REACT-REDUX/static/media/Ray.19025a32080d802c43ff.jpg",
+    "static/media/Anakin.webp": "/REACT-REDUX/static/media/Anakin.e92f20decf14bdbb5095.webp",
     "index.html": "/REACT-REDUX/index.html",
-    "main.073c9b0a.css.map": "/REACT-REDUX/static/css/main.073c9b0a.css.map",
-    "main.ad747ad2.js.map": "/REACT-REDUX/static/js/main.ad747ad2.js.map"
+    "static/media/like.svg": "/REACT-REDUX/static/media/like.f007a8c1a41fd7f514ad858afe9b5c45.svg",
+    "static/media/share.svg": "/REACT-REDUX/static/media/share.77df965bd9f329a72825351fe6c97371.svg",
+    "static/media/comment.svg": "/REACT-REDUX/static/media/comment.7e5901c586cc1051b6abd68eb95ab0e6.svg",
+    "static/media/reply.svg": "/REACT-REDUX/static/media/reply.9b46f8d062344d0069e4534feda49c83.svg",
+    "main.87cb6df9.css.map": "/REACT-REDUX/static/css/main.87cb6df9.css.map",
+    "main.7fbbb63b.js.map": "/REACT-REDUX/static/js/main.7fbbb63b.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.ad747ad2.js"
+    "static/css/main.87cb6df9.css",
+    "static/js/main.7fbbb63b.js"
   ]
 }
